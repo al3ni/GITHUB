@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SU",
+    "value": "YVVCp5-wDmb4M9Brc5CWtEeLx_r7Y1Sdh2UvmakljqWxFdvKTslQn5QguqMX9SOvXyyQ2eSWCRCxIeOQXogW9cIBmBxKODWZOtWMP0w48mN8fSJzUj3-Cdu9OHVbQXN6",
+    "domain": ".chegg.com",
+    "path": "/",
+    "expires": 1633363979779834.495083,
+    "size": 130,
+    "httpOnly": false,
+    "secure": false,
+    "session": false
+  }
+]
